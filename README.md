@@ -1,5 +1,5 @@
-# 🎯Simple to-do-list REST API
-A beginner REST API made using Node.js and Express. 
+# 🎯Simple to-do-list API
+A simple to-do-list REST API made using Node.js and Express. 
 <br/> <br/>
 
 ## ✅Features
